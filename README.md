@@ -17,24 +17,15 @@
 </p>
 //###
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="git logo"  />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="html logo"  />
-    <img src="https://skillicons.dev/icons?i=vite" height="40" alt="ts logo"  />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,ts,vs,react,ts,html,js,py,	" />
+  </a>
+</p>
+
 
   
   
-</div>
 
 
 
