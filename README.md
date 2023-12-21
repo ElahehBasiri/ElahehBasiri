@@ -19,6 +19,14 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,ts,vscode,react,ts,html,js,py" />
   </a>
+
+
+
+
+
+
+  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElahehBasiri)](https://github.com/ElahehBasiri/github-readme-stats)
+
 </p>
 
 
