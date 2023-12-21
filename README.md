@@ -25,7 +25,7 @@
 
 
 
-  [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElahehBasiri)](https://github.com/ElahehBasiri/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElahehBasiri&hide=javascript,css,scss,html&theme=tokyonight)
 
 </p>
 
