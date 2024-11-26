@@ -1,10 +1,12 @@
 <h2 align="center">Hi 👋, I'm Elaheh Basiri</h2>
 
-<h4 align="center">a Front-End  Developer with React and website designer, I am interested in the world of artificial intelligence. My current degree is in the master's degree in artificial intelligence. I have been trained in web design for two years. In addition, I have been trained in Python to some extent, and I am interested in learning and doing new projects in the field of programming.
+<h4 align="center"> 
 
-- 🔭 I’m currently working on **Web Desigining**
+I am a master's student in Artificial Intelligence at Tabriz University, currently working as a Software Quality Assurance Specialist at System Group. I have a strong passion for artificial intelligence and have gained hands-on experience in this field. My enthusiasm for coding and learning new technologies drives me to perform with dedication and motivation in both academic and professional settings. My goal is to further develop my skills in AI and contribute to improving software quality through innovative, data-driven approaches.
 
-- 🌱 I’m currently learning **React and Javascript **
+- 🔭 I’m currently working on **gans technology**
+
+- 🌱 I’m currently learning **ai**
 
 
 - 📫 How to reach me **basirielahe80@gmail.com**
